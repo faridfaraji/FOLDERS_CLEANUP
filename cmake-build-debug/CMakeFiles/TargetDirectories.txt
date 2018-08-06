@@ -1,0 +1,3 @@
+/Users/Farid/iCloud Drive (Archive)/C_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Farid/iCloud Drive (Archive)/C_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Farid/iCloud Drive (Archive)/C_project/cmake-build-debug/CMakeFiles/C_project.dir
